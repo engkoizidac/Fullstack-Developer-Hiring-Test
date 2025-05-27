@@ -19,7 +19,7 @@ Details:
 Negros Oriental I, Electric Cooperative
 Bindoy, Negros Oriental, Philippines
 Details:
-- Develop and maintain computerize systems.
+- Develop and maintain computerize systems using JAVA Programming Language, MYSQL and MSSQL.
 - Perform IT support.
 ### • Software Developer (Part-time)
 2017
@@ -28,6 +28,7 @@ Dumaguete City, Negros Oriental
 Details:
 - Performs front-end and back-end development using AngularJS.
 ### • Freelance Programmer
+Develop and maintain systems using JAVA Programming Language and MYSQL
 Portfolio:
 - Skye Dental Management System
 - Bookkeeping and Carding Systems – LGU Bais Accounting Office
