@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Fullstack-Developer-Hiring-Test
 
-## Getting Started
+Project is implemented in NextJS to perform the 3 task 
+Task 1: Code Cleanup – "Fix This Component"
+Task 2: Data List with Search
+Task 3: Simple Countdown Timer
 
-First, run the development server:
+## Task 1: Code Cleanup – "Fix This Component"
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Description
+- Rename all variables to make readable and descriptive to its function and easy to understand.
+- Add necessary error handlers and remarks.
+- Implement promise due to fetch is asynchronous.
+- Implement isLoading useState to display info to user while loading in case of delay on fetch.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Task 2: User List with Search
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Description
+- Implemented the search of through user and email and display the in a clean list format
+- Implemented some simple style
+- and also display "No results found" when search returns no matches
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Task 3: Countdown Timer
 
-To learn more about Next.js, take a look at the following resources:
+### Description
+- Implemented a countdown timer that starts from 10 and counts down to 0, showing "Done!" when complete.
+- add reset button to reset the counter
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Notes
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1 Please clone and test the repo. Thank you
