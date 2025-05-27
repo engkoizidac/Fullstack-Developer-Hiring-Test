@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LESTER JOHN PAUL CADIZ
+cadizlester@gmail.com
++973-38040032
 
-## Getting Started
+## Personal Information
+Address: Poblacion, Bindoy, Negros Oriental, 6209
 
-First, run the development server:
+## Education
+Bachelor of Science in Computer Science (2001-2005)
+## Work Experience
+### • Online E-Commerce Staff
+Currently working
+The Toys Boutique L.L.C
+Janabiya, Kingdom of Bahrain
+Details:
+- Manage shopify wordpress website on orders, product and others.
+### • Computer Programmer
+2010-2023
+Negros Oriental I, Electric Cooperative
+Bindoy, Negros Oriental, Philippines
+Details:
+- Develop and maintain computerize systems.
+- Perform IT support.
+### • Software Developer (Part-time)
+2017
+Tri-nvent Systems, Inc.
+Dumaguete City, Negros Oriental
+Details:
+- Performs front-end and back-end development using AngularJS.
+### • Freelance Programmer
+Portfolio:
+- Skye Dental Management System
+- Bookkeeping and Carding Systems – LGU Bais Accounting Office
+- Necci POS and Inventory System
+- NELA Record System
+- Wunwun Enterprise POS and Inventory System
+- Voters Campaign Management System – Bais City & Tayasan NegOr
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Objective
+To acquire a challenging job and expand my learnings, knowledge, and fully utilize my experience and skills, while making a significant contribution to the success of the company.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Knowledge and Skills
+JAVA, Angular, ReactJS and NextJS Programming Language, MySql, MsSql, Prisma ORM, Zod Validation, Shadcn, Tailwind and Bootstrap CSS, Basic HTML, Asana, Git, Github, Slack, Adobe Photoshop and Illustrator.
