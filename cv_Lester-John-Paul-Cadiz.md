@@ -3,7 +3,7 @@ cadizlester@gmail.com
 +973-38040032
 
 ## Personal Information
-Address: Poblacion, Bindoy, Negros Oriental, 6209
+Address: Poblacion, Bindoy, Negros Oriental, 6209, Philippines
 
 ## Education
 Bachelor of Science in Computer Science (2001-2005)
