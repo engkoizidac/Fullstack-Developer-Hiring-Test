@@ -28,7 +28,7 @@ Dumaguete City, Negros Oriental
 Details:
 - Performs front-end and back-end development using AngularJS.
 ### • Freelance Programmer
-Develop and maintain systems using JAVA Programming Language and MYSQL
+Develop and maintain computerized systems using JAVA Programming Language and MYSQL
 Portfolio:
 - Skye Dental Management System
 - Bookkeeping and Carding Systems – LGU Bais Accounting Office
